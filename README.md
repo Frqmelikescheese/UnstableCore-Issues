@@ -39,19 +39,6 @@ UnstableCore is a high-octane, SMP-focused plugin designed for chaos, high-stake
 
 ---
 
-## 🛠️ Advanced Gameplay Mechanics
-
-### ⚔️ Combat & Warfare
-* **Mace-Elytra AI**: Fighter bots utilize high-level PvP meta (jousting/shield-switching).
-* **Proximity Stealth**: Death messages and advancements are only seen within a 100-block radius.
-* **UnderWorld Guardians**: Wither Skeletons in the UnderWorld spawn with Protection II Diamond Armor and Sharpness I Diamond Swords.
-
-### 🌌 Dimension Transitions
-* **Void Fall Transition**: Falling below Y=-70 in the Overworld teleports you to the UnderWorld.
-* **Sky Bridge**: Flying above Y=320 in the UnderWorld returns you to the Overworld.
-
----
-
 ## ⚠️ Requirements & Setup
 1. **CitizensAPI** (2.0.42-SNAPSHOT) and **ProtocolLib** (5.4.0) are required.
 2. **Dimension Generation**: Allow the plugin to auto-generate the `UnderWorld` and `FarLands` folders on first boot.
